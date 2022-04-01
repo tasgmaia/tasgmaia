@@ -4,7 +4,7 @@
 
 - 🔭 Check out my [website](http://jonatasmaia.com) and my [dribble](https://dribbble.com/tasguerci)
 - 🌱 Recently I finished the Harvard[CS50](https://certificates.cs50.io/178d6904-a215-4926-b68a-15dc8749e11b.pdf) course and now I'm learning more about coding on [freeCodeCamp](https://www.freecodecamp.org/) 
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Explore more about generative art
 - ⚡ Fun fact: I play [clarinet](https://www.google.com/search?q=clarinet)
 
 
