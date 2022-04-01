@@ -1,8 +1,8 @@
-# Hi there, I'm Jonatas - aka [Tas](https://jonatasmaia.com/ )👋 
+# Hi there, I'm Jonatas - aka [Tas](https://jonatasmaia.com/about )👋 
 
 ## I'm a Product Designer that enjoy writing code! I've been working with front-end for a while and more recently I'm spending some time on creative coding with p5js
 
-- 🔭 Check out my [website]{http://jonatasmaia.com} and my [dribble](https://dribbble.com/tasguerci)
+- 🔭 Check out my [website](http://jonatasmaia.com) and my [dribble](https://dribbble.com/tasguerci)
 - 🌱 Recently I finished the Harvard[CS50](https://certificates.cs50.io/178d6904-a215-4926-b68a-15dc8749e11b.pdf) course and now I'm learning more about coding on [freeCodeCamp](https://www.freecodecamp.org/) 
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I play [clarinet](https://www.google.com/search?q=clarinet)
