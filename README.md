@@ -1,4 +1,4 @@
-# Hi there, I'm Jonatas - aka [Tas](https://jonatasmaia.com/)👋 
+# Hi there, I'm Jonatas - aka [Tas](https://jonatasmaia.com/ )👋 
 
 ## I'm a Product Designer that enjoy writing code! I've been working with front-end for a while and more recently I'm spending some time on creative coding with p5js
 
